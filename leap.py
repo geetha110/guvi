@@ -4,7 +4,7 @@ def leap_year(a):
            if(a%400==0):
                print("yes")
            else: 
-               print("No")
+               print("no")
        else:
           print("yes")
      else:
