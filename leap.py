@@ -8,6 +8,6 @@ def leap_year(a):
        else:
           print("yes")
      else:
-        print("No")
+        print("no")
 a=int(input(""))
 leap_year(a)
